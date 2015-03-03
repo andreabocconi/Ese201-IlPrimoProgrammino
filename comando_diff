@@ -1,0 +1,6 @@
+Il comando diff per shell è un comando che serve
+per confronta due file, due directory, ecc., e riporta 
+tutte le differenze tra i due. Questo comando tratta 
+solamente file ASCII. Il suo formato di output è stato 
+progettato per fornire i cambiamenti necessari per convertire 
+il primo file nel secondo.
